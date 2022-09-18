@@ -1,9 +1,11 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Christopher Koepke
 # FILENAME: decision_tree.py
-# SPECIFICATION: description of the program
-# FOR: CS 4210- Assignment #1
-# TIME SPENT: how long it took you to complete the assignment
+# SPECIFICATION: This program is designed to create a machine learning decision tree
+#                using the ID3 Algorithm.
+# FOR: CS 4210.01 Assignment #1
+# TIME SPENT: Spent around three hours quickly learning how to use Python and implement 
+#             the code neccessary to complete this task.
 #-----------------------------------------------------------*/
 
 # IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard
