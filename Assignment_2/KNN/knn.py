@@ -2,8 +2,8 @@
 # AUTHOR: CHRISTOPHER KOEPKE
 # FILENAME: knn.py
 # SPECIFICATION: This program was designed to implement an Instance Based Learning ( 1NN ) and calculate its error rate.
-# FOR: CS 4210- Assignment #2
-# TIME SPENT: how long it took you to complete the assignment
+# FOR: CS 4210.01 - Assignment #2
+# TIME SPENT: Took around 8 hours to complete 
 # --------------------------------------------------------------------------*/
 
 # IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas.
