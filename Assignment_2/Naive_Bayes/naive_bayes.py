@@ -3,7 +3,9 @@
 # FILENAME: naive_bayes.py
 # SPECIFICATION: This program was designed to implement a Naive-Bayes ML model
 # FOR: CS 4210.01 - Assignment #2
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: Took around 4 hours to complete. Most of the time spent trying
+#               to get the output to line up with your given columns, but
+#               could not figure out how to align it.
 # -------------------------------------------------------------------------*/
 
 # IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas.
