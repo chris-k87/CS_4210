@@ -1,9 +1,14 @@
 # -------------------------------------------------------------------------
 # AUTHOR: CHRISTOPHER KOEPKE
 # FILENAME: clustering.py
-# SPECIFICATION: description of the program
+# SPECIFICATION: Implement a Kmeans clustering algorithm and find the 
+#                   number of clusters that will produce the highest 
+#                   silhouette coefficient for the training data. Plot a 
+#                   line graph to visualize the number of clusters to
+#                   silhouette coefficients. Finally, print the 
+#                   Homogeneity of this kmeans clustering.
 # FOR: CS 4210.01 Assignment #5
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: ~2 hours
 # -----------------------------------------------------------*/
 
 # importing some Python libraries
